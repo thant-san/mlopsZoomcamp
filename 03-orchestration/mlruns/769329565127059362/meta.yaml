@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlopsZoomcamp/03-orchestration/mlruns/769329565127059362
+creation_time: 1749293941631
+experiment_id: '769329565127059362'
+last_update_time: 1749293941631
+lifecycle_stage: active
+name: yellow_trip_duration_experiment

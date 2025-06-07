@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlopsZoomcamp/03-orchestration/mlruns/769329565127059362/64179f2fd7814f7eb316ce4dfed87d8f/artifacts
+end_time: 1749293981961
+entry_point_name: ''
+experiment_id: '769329565127059362'
+lifecycle_stage: active
+run_id: 64179f2fd7814f7eb316ce4dfed87d8f
+run_name: burly-fish-561
+run_uuid: 64179f2fd7814f7eb316ce4dfed87d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749293941858
+status: 4
+tags: []
+user_id: codespace

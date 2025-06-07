@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlopsZoomcamp/03-orchestration/mlruns/769329565127059362/e80c33a8187e4bdf8717e0c9eb3a5f2b/artifacts
+end_time: 1749294448290
+entry_point_name: ''
+experiment_id: '769329565127059362'
+lifecycle_stage: active
+run_id: e80c33a8187e4bdf8717e0c9eb3a5f2b
+run_name: masked-toad-967
+run_uuid: e80c33a8187e4bdf8717e0c9eb3a5f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749294409164
+status: 3
+tags: []
+user_id: codespace

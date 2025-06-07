@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlopsZoomcamp/03-orchestration/mlruns/769329565127059362/73f38ad997a444dc8e9b773a74ec62f7/artifacts
+end_time: 1749294299073
+entry_point_name: ''
+experiment_id: '769329565127059362'
+lifecycle_stage: active
+run_id: 73f38ad997a444dc8e9b773a74ec62f7
+run_name: exultant-pug-612
+run_uuid: 73f38ad997a444dc8e9b773a74ec62f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749294257210
+status: 3
+tags: []
+user_id: codespace
